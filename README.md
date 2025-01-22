@@ -1,2 +1,13 @@
-# deep-learn-hub
-DeepLearnHub showcases deep learning projects across computer vision, NLP, and time-series analysis. Includes well-documented code, datasets, and practical implementations with detailed explanations, making it ideal for learning, exploring, and applying deep learning techniques.
+# DeepLearnHub  
+**Showcasing Deep Learning Projects Across Various Domains**  
+
+## 🧠 About  
+DeepLearnHub is a collection of deep learning projects demonstrating techniques in:  
+- **Computer Vision**: Image classification, object detection, GANs.  
+- **Natural Language Processing**: Text classification, sentiment analysis, chatbots.  
+- **Time-Series Analysis**: Stock price prediction, weather forecasting.
+- **Neural Networks**: Netowrks implementations.
+
+Each project includes well-documented code, datasets, and explanations for learning and experimentation.  
+
+---
